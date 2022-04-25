@@ -6,7 +6,7 @@ const menu = [
         title: "Breakfast Meal",
         category: "Breakfast",
         price: 15,
-        image: '../filter/images/chow-2.jpg',
+        image: "../filter/images/chow-2.jpg",
         description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium ipsa a magnam sit est eum perspiciatis laboriosam expedita quam aspernatur!"
     },
 
@@ -15,7 +15,7 @@ const menu = [
         title: "Lunch Meal",
         category: "Lunch",
         price: 15,
-        image: '../filter/images/chow-3.jpg',
+        image: "../filter/images/chow-3.jpg",
         description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium ipsa a magnam sit est eum perspiciatis laboriosam expedita quam aspernatur!"
     },
 
@@ -24,7 +24,7 @@ const menu = [
         title: "Chocolate Milkshake",
         category: "Shakes",
         price: 15,
-        image: '../filter/images/chow-4.jpg',
+        image: "../filter/images/chow-4.jpg",
         description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium ipsa a magnam sit est eum perspiciatis laboriosam expedita quam aspernatur!"
     },
 
@@ -33,7 +33,7 @@ const menu = [
         title: "Breakfast Meal",
         category: "Breakfast",
         price: 15,
-        image: '../filter/images/chow-5.jpg',
+        image: "../filter/images/chow-5.jpg",
         description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium ipsa a magnam sit est eum perspiciatis laboriosam expedita quam aspernatur!"
     },
 
@@ -42,7 +42,7 @@ const menu = [
         title: "Lunch Meal",
         category: "Lunch",
         price: 15,
-        image: '../filter/images/chow-6.jpg',
+        image: "../filter/images/chow-6.jpg",
         description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium ipsa a magnam sit est eum perspiciatis laboriosam expedita quam aspernatur!"
     },
 
@@ -60,7 +60,7 @@ const menu = [
         title: "Breakfast Meal",
         category: "Breakfast",
         price: 15,
-        image: '../filter/images/chow-8.jpg',
+        image: "../filter/images/chow-8.jpg",
         description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium ipsa a magnam sit est eum perspiciatis laboriosam expedita quam aspernatur!"
     },
 
@@ -69,7 +69,7 @@ const menu = [
         title: "Lunch Meal",
         category: "Lunch",
         price: 15,
-        image: '../filter/images/chow-9.jpg',
+        image: "../filter/images/chow-9.jpg",
         description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium ipsa a magnam sit est eum perspiciatis laboriosam expedita quam aspernatur!"
     },
 ]
