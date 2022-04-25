@@ -87,11 +87,9 @@ const filterbtns = document.querySelectorAll('.filter__button');
 window.addEventListener("DOMContentLoaded", function () {
 
     // FUNCTION TO DISPLAY MENU BUTTONS
-
     displayMenuButtons();
 
     // FUNCTION CALLED TO DISPLAY THE MENU ITEMS
-
     displayMenuItems(menu);
 });
 
@@ -102,7 +100,6 @@ window.addEventListener("DOMContentLoaded", function () {
 
 
 // FUNCTION TO DISPLAY THE MENU ITEMS 
-
 function displayMenuItems(menuItems) {
     let displayMenu = menuItems.map(function (item) {
 

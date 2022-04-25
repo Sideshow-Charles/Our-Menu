@@ -95,8 +95,6 @@ section.container {
 }
 
 
-/* MEDIA QUERIES */
-
 @media(min-width: 1500px) {
     *{
         margin: 0 auto;
